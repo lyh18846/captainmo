@@ -1,0 +1,17 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+<title>VG天禄进冠军组就改名个人小站</title>
+
+<body background="background.jpg"
+style=" background-repeat:no-repeat ;
+background-size:100% 100%;
+background-attachment: fixed;"
+>
+
+<center><img src="./VGTL.png"></center>
+
+<center><font size="5"><a href="https://space.bilibili.com/35515344"target="_blank">作者B站主页</a></font> </center>
+
+
+<center><font size="5"><embed src="./gean.mp3"hidden="true"atuostart="true"loop="true"></a></font></center>
